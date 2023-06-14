@@ -1,0 +1,14 @@
+
+
+//             Name: Mohan.s
+// Phone & Whatsapp: 6374057479
+             E-Mail: smohandass1934@gmail.com\
+
+
+  This is the small project Student Entry in Web Based Application API::
+   
+    With an using Java, JDBC, JSP, Servlet, MySql.
+
+Enter The Student Details In Boys Hostel Registeration Form. 
+
+in an Curd Operation Inserting  Deleting Editing&update View The Student Details 
